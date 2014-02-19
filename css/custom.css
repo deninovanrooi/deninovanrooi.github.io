@@ -1,6 +1,4 @@
 @charset "utf-8";
-/* CSS Document */
-body { padding-top: 70px; }
 
 .jumbotron_bg {
 	background-color: #0b215f;
@@ -19,5 +17,5 @@ body { padding-top: 70px; }
 	text-align: center;
 }
 .content_style h1, h2, h3{
-	color: #F60;
+	color: #0B215F;
 }
